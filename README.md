@@ -4,7 +4,7 @@ JS_Deserializer
 Form deserializer. Used with serializer function on jQuery.
 
 Some serialized data, made from a html FORM tag, cannot be deserialized by default jQuery.
-This Project contains additional function, deserializing and applying data to FORM tag.
+This Project adds a new function, that deserializing and applying it to FORM tag.
 
 
 Warning
